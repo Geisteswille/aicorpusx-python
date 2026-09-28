@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 authors = [{name = "FENG YIFAN", email = "yifan.f.academic@icloud.com"}]
 name = "aicorpusx"
-version = "0.1.5"
+version = "0.1.6"
 description = "Resumable, multi-key translation for CSV and XLSX corpora."
 readme = "README.md"
 requires-python = ">=3.9"
