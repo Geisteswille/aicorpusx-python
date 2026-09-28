@@ -20,4 +20,4 @@ __all__ = [
     "write_rows",
     "write_rows_iter",
 ]
-__version__ = "0.1.5"
+__version__ = "0.1.7"
