@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cover.png" alt="aicorpusx cover" width="100%">
+</p>
+
 # aicorpusx
 
 `aicorpusx` is a concurrent translation library for Python programs and CSV/XLSX corpora. It supports OpenAI-compatible `/chat/completions` services, multiple API keys, terminology constraints, retries, resumable file translation, in-memory workflows, and memory-bounded streaming pipelines.
